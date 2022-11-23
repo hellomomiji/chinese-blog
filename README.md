@@ -2,6 +2,6 @@
 
 An archive of my wechat public account (dadaowalking) articles.
 
-[Momiji(Yang)'s Pluto](hellomomiji.github.io/chinese-blog/)
+[Momiji(Yang)'s Pluto](https://hellomomiji.github.io/chinese-blog/)
 
 Powered by Jekyll with Chirpy theme.
