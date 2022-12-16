@@ -1,8 +1,8 @@
 ---
 title: 《On Writing Well》如何构思简洁有干货的科技写作？
 date: 2018-06-11
-categories: [Reading]
-tags: [research, translation, insights]
+categories: [阅读]
+tags: [学术研究, 读书笔记, 翻译]
 ---
 ![cover](/assets/img/postimg/on-writing-well/onwritingwelltitle.jpeg)
 William Zinsser 的这本 《On Writing Well》，是英文非虚构写作的经典必读书目之一。可能是我英文太差了，我花了一年的碎片时间都没有把它读完。但是这本书的每一句话都简练明瞭地阐明了写作的基本法则和规律。

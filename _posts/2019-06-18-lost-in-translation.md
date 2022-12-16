@@ -1,8 +1,8 @@
 ---
 title: 《迷失东京》｜从语言学和跨文化交际的角度分析一部文艺电影
 date: 2019-06-18 22:00:00
-categories: [City Walking]
-tags: [tokyo, research, insights]
+categories: [城市散步]
+tags: [东京, 学术研究, 文化研究, 洞察, 日本, 电影]
 ---
 
 ![img](/assets/img/postimg/lost-in-translation/translation01.jpeg)

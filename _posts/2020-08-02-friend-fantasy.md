@@ -1,8 +1,8 @@
 ---
 title: 《朋友幻想》| 人际关系令人窒息？幸福和苦痛都来源于他人
 date: 2020-08-02
-categories: [Reading]
-tags: [translation, insights]
+categories: [阅读]
+tags: [文化研究, 学术研究,读书笔记, 翻译, 日本]
 ---
 ![cover](/assets/img/postimg/friend-fantasy/cover.jpeg)
 

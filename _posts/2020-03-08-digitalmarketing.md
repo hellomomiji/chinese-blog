@@ -2,8 +2,9 @@
 
 title:  惑而不从师｜数字营销教科书：从3C4P到Data-driven和Omni Channel的进化
 date: 2020-03-08 15:08
-categories: [Reading]
-tags: [translation, research]
+categories: [阅读]
+tags: [商业观察, 读书笔记, 翻译]
+
 ---
 
 在MBA School中能学习到的传统市场营销知识，通常来自于菲利普科特勒（Philip Kotler）所撰写的《Marketing Management》一书。然而本书，正如其书名《Digital Marketing的教科书》，将市场营销一般论的知识以教科书般的叙述呈现出来，并且详细解释了数字营销的登场，进化以及框架；在这个活用和创新各种IT技术时代，数字营销是如何改变了传统陈旧的营销方式，为企业创造出新的商业价值。

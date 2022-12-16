@@ -1,8 +1,8 @@
 ---
 title: 惑而不从师|从认知自己的消极情绪到走出抑郁的自愈方法--《伯恩斯新情绪疗法》
 date: 2019-08-11 20:00
-categories: [Reading]
-tags: [research]
+categories: [阅读]
+tags: [学术研究, 读书笔记]
 ---
 
 

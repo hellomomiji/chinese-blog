@@ -1,8 +1,8 @@
 ---
 title: 惑而不从师|让学习变成自己的成果《Output大全》
 date: 2020-1-12 16:18
-categories: [Reading]
-tags: [translation, research]
+categories: [阅读]
+tags: [文化研究, 读书笔记, 翻译]
 ---
 
 上一篇文章，我po出了《Input大全》这本书的一些读书笔记。最近又将与Input相对应的《Output大全》阅读了一遍，便也想做一个总结。

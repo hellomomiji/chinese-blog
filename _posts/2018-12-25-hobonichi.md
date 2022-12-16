@@ -1,8 +1,8 @@
 ---
 title: 用最温柔最文艺的方式上市｜对不起，这是Hobonichi的经营
 date: 2018-12-25
-categories: [Reading]
-tags: [tokyo, translation, insights]
+categories: [阅读]
+tags: [东京, 翻译, 洞察, 读书笔记, 日本]
 ---
 
 ![hobonichi](/assets/img/postimg/hobonichi/cover.jpg)
