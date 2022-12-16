@@ -5,7 +5,7 @@ categories: [阅读]
 tags: [商业观察, 读书笔记, 翻译]
 ---
 
-![cover](../assets/img/postimg/sales-strategy/cover.jpeg)
+![cover](/assets/img/postimg/sales-strategy/cover.jpeg)
 
 这本书阅读起来有一点难度。我在第一次做SFA（Sales Force Automation）相关的项目时，PM给我推荐了这本书；我在一年目完全没有实务经验、对该领域一无所知的情况下，根本就翻不动这本书。
 
@@ -66,7 +66,7 @@ tags: [商业观察, 读书笔记, 翻译]
 6. 营业活动的PDCA方法确立
 营业活动全体的PDCA改善方法的建立，个别活动的监视和营业个体的PDCA的确立
 
-![2](../assets/img/postimg/sales-strategy/2.png)                     
+![2](/assets/img/postimg/sales-strategy/2.png)                     
 
 ## 营业战略方针的明确化
 
@@ -105,7 +105,7 @@ tags: [商业观察, 读书笔记, 翻译]
 - 烦恼：
   - 如果能够把握到顾客感到最头痛最苦恼的地方，也就是痛点，那么对于建立良好的信赖关系是非常有利的。
 
-![3](../assets/img/postimg/sales-strategy/3.png)                     
+![3](/assets/img/postimg/sales-strategy/3.png)                     
 
 ## 营业活动效率化
 
